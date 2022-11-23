@@ -69,4 +69,10 @@ Finally, the test.py file must be executed to create the result.txt and evaluati
 < Shahfaissal I Dharwad > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
 Contact me for Data Science Project Collaborations
+
 <a href='linkedin.com/in/shahfaissal-' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=black&color=black'/></a>  <a href='https://medium.com/@shahfaissal21' target="_blank"><img alt='medium ' src='https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium &logoColor=white&labelColor=black&color=black'/></a>
+
+# 📚 References
+- GeekforGeeks
+- Kaggle
+- Analytics Vidya
